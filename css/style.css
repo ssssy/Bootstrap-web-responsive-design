@@ -1,0 +1,23 @@
+body{
+	background:transparent url("../images/image3.png");
+	background-repeat: repeat;
+}
+
+/* NAVIGATION AREA */
+.zuo{background-color: #000000;}
+
+.navbar-default{ background-color:#000000;}
+.navbar-nav a{ color: #ffffff;}
+.bar{ border-right:1px solid #f2f2f2; width:150px; text-align:center; }
+.active{ width:80px; background:#006600; text-align:center; }
+.m{margin-top: 50px;}
+.blkbg{ background-color: black; }
+.clear{ clear: both; margin-bottom: 20px;}
+section.bimg{ margin-top: 20px; }
+#F, #T, #R{ width:40px; height:40px; }
+
+.phone{ width:250px; height:40px; background-color:#333333;font-size:20px;text-shadow: 1px solid white;color:white;border-radius:3px;margin-bottom:15px;}
+.glyphicon-earphone {margin-left:10px;margin-top:5px;}
+.email{width:250px;height:40px;background-color:#37e600;font-size:18px;text-shadow: 1px solid white;color:white;border-radius:3px;}
+.glyphicon-envelope{margin-left:10px; margin-top:10px;}
+.imageTitle{color: white;}
